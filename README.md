@@ -1,4 +1,4 @@
-# Projec
+# Projects
 
 some new practices
 
