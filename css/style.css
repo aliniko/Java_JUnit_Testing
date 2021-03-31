@@ -80,20 +80,19 @@ header a:hover{
     background-size: cover;
     opacity: 0.4;
     text-align: center;
-    color: #aa273d;
+    color: #f1f4f5;
 }
 
 #showcase h1{
     margin-top: 100px;
     font-size: 55px;
     margin-bottom: 10px;
-    background-color: rgba(235, 235, 240, 0.507);
+    background-color: rgba(0, 0, 7, 0.507);
 }
 
 #showcase p{
     font-size: 20px;
-    background-color: rgba(235, 235, 240, 0.507);
-
+    background-color: rgba(0, 0, 7, 0.507);
 }
 
 /* newsletter */
@@ -142,4 +141,12 @@ header a:hover{
 
 #boxes .box #img-box-3 {
     width: 200px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #e849e8;
+    text-align: center;
 }
