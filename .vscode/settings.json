@@ -1,3 +1,4 @@
 {
-    "sync.autoDownload": true
+    "sync.autoDownload": true,
+    "liveServer.settings.port": 5501
 }
